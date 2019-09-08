@@ -1,2 +1,2 @@
 # fokin-weather
-learijg reactive NAtive 
+Learning React Native by building a Foking Waether App
